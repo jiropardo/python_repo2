@@ -4,7 +4,7 @@
 
 import sys
 print(sys.path)
-from my_project.module1 import function1
+from modules.module1 import function1
 
 result = function1()
 print(result)
